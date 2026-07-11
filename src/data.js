@@ -37,7 +37,6 @@ export const skillGroups = [
 export const projects = [
   {
     title: "Property Rental Management System (PRMS)",
-    badge: "FLAGSHIP",
     tags: "MERN · Socket.io · Prisma ORM · JWT · Vitest",
     links: [
       { label: "Live demo", href: "https://property-rental-xi.vercel.app" },
@@ -127,7 +126,7 @@ export const experience = [
 ];
 
 export const education = [
-  { deg: "BSc (Hons) Computing Science", school: "Coventry University", date: "Expected Mar 2026" },
+  { deg: "BSc (Hons) Computing Science", school: "Coventry University", date: "Mar 2026" },
   { deg: "Higher Diploma in Infocomm Technology", school: "TMC Academy", date: "Feb 2024" },
 ];
 
@@ -136,6 +135,6 @@ export const certifications = [
   { name: "IBM Data Science Specialization", issuer: "IBM", date: "Oct 2024", credId: "A8LPBD8VMO3V" },
   { name: "Meta React Native Specialization", issuer: "Meta", date: "Sep 2024", credId: "WZ7AUWMP3WJR" },
   { name: "Meta Front-End Developer Specialization", issuer: "Meta", date: "Jul 2024", credId: "EW8RRUYTVY4W" },
-  { name: "Google Business Intelligence Specialization", issuer: "Google", date: "2024", credId: null },
-  { name: "Google Data Analytics Specialization", issuer: "Google", date: "2023", credId: null },
+  { name: "Google Business Intelligence Specialization", issuer: "Google", date: "2024", credId: "BZ2W4BHZSN6H" },
+  { name: "Google Data Analytics Specialization", issuer: "Google", date: "2023", credId: "4E2EQ685FYYJ" },
 ];
