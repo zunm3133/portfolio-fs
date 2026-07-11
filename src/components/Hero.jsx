@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="wrap">
         <div className="hero-grid">
           <div>
-            <div className="eyebrow">Full Stack Developer · Singapore</div>
+            <div className="eyebrow">Full Stack Developer</div>
             <h1 className="hero-name">{profile.name}</h1>
             <div className="hero-role">{profile.role}</div>
             <p className="hero-summary">{profile.summary}</p>
